@@ -1,0 +1,11 @@
+[
+	{
+		"data" : {
+			"name" 	: "Hendy",
+			"phone"	: "12345",
+			"email" 	: "hendy@test.com",
+			"password" 	: "hendy123",
+			"address"  	: "Jalan Jalan"
+		}
+	}
+]

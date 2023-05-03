@@ -1,0 +1,26 @@
+{
+	"data" :[ 
+		{
+			"name" 	: "Ponimin",
+			"phone"	: "12345",
+			"email" 	: "ponimin@test.com",
+			"password" 	: "ponimin123",
+			"address"  	: "Jalan Kangkung"
+		},
+		{	
+			"name" 	: "Ponisri",
+			"phone"	: "67890",
+			"email" 	: "ponisri@test.com",
+			"password" 	: "ponisri123",
+			"address"  	: "Jalan Sawi"
+		},
+		{	
+			"name" 	: "Ponilah",
+			"phone"	: "12789",
+			"email" 	: "ponilah@test.com",
+			"password" 	: "ponilah123",
+			"address"  	: "Jalan Brambang"
+		}
+	]
+	
+}
